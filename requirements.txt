@@ -6,3 +6,5 @@ opencv-python
 torch
 numpy
 Pillow
+pyttsx3
+
